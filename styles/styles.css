@@ -1,0 +1,35 @@
+body {
+  font-size: 20px;
+}
+h1 {
+  color: green;
+  text-align: center;
+}
+.italic {
+  font-style: italic;
+}
+.header_image {
+  display: block;
+  margin: 0 auto;
+}
+.img_inside {
+  width: 100%;
+}
+
+td {
+  width: 50%;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+.title_div {
+  font-size: 40px;
+  text-align: center;
+}
+.span_subtitle {
+  font-size: 20px;
+}
+
+li {
+  margin: 0 10px;
+}
